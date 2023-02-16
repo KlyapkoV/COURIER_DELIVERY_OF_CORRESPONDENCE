@@ -27,5 +27,5 @@
 &nbsp;
 # _ФАЙЛЫ ПРОЕКТА_:
 
-## [SQL-скрипт для создания пользователя, таблиц, процедур, функций и представления](https://github.com/KlyapkoV/COURIER_DELIVERY_OF_CORRESPONDENCE/blob/main/script.sql)
-## [ER-диаграмма созданного DWH](https://github.com/KlyapkoV/COURIER_DELIVERY_OF_CORRESPONDENCE/blob/main/ER-diagram.PNG)
+- ## [SQL-скрипт для создания пользователя, таблиц, процедур, функций и представления](https://github.com/KlyapkoV/COURIER_DELIVERY_OF_CORRESPONDENCE/blob/main/script.sql)
+- ## [ER-диаграмма созданного DWH](https://github.com/KlyapkoV/COURIER_DELIVERY_OF_CORRESPONDENCE/blob/main/ER-diagram.PNG)
